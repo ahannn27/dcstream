@@ -12,7 +12,8 @@ client = commands.Bot(
 
 @client.event
 async def on_connect():
-  await client.change_presence(activity = discord.Streaming(name = " INI DI UBAH ", url = "https://twicth.tv/"))
+  await client.change_presence(activity = discord.Streaming(name = " ALWAYS ON 24/7 ON IN SAMP/GTA ONLINE
+  https://www.instagram.com/an0th3r.ahann?igsh=MmV2cXA3MGo4bGcx", url = "https://twicth.tv/"))
 
 
 keep_alive.keep_alive()
